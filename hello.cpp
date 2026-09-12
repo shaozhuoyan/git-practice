@@ -3,7 +3,7 @@
 
 int main()
 {
-	std::cout <<"Hello, Git ! world "<<std::endl;
+	std::cout <<"Hello, Git ! world 1 "<<std::endl;
 	return 0;
 
 }
